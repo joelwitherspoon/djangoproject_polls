@@ -1,2 +1,2 @@
 # djangoproject_polls
-Polls Tutorial from Django Proje
+Polls Tutorial from Django Project
